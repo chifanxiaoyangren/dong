@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\TestArrayFree\TestArrayFree\bin\Debug\TestArrayFree.exe.config
+C:\Users\admin\source\repos\TestArrayFree\TestArrayFree\bin\Debug\TestArrayFree.exe
+C:\Users\admin\source\repos\TestArrayFree\TestArrayFree\bin\Debug\TestArrayFree.pdb
+C:\Users\admin\source\repos\TestArrayFree\TestArrayFree\obj\Debug\TestArrayFree.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\TestArrayFree\TestArrayFree\obj\Debug\TestArrayFree.Form1.resources
+C:\Users\admin\source\repos\TestArrayFree\TestArrayFree\obj\Debug\TestArrayFree.Properties.Resources.resources
+C:\Users\admin\source\repos\TestArrayFree\TestArrayFree\obj\Debug\TestArrayFree.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\TestArrayFree\TestArrayFree\obj\Debug\TestArrayFree.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TestArrayFree\TestArrayFree\obj\Debug\TestArrayFree.exe
+C:\Users\admin\source\repos\TestArrayFree\TestArrayFree\obj\Debug\TestArrayFree.pdb
